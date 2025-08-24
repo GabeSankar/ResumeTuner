@@ -1,0 +1,182 @@
+{
+  "header": {
+    "name": "Gabriel Sankar",
+    "emails": [
+      "gabesankar1@gmail.com",
+      "gsankar9@gatech.edu"
+    ],
+    "phone": "(917) 974-5310",
+    "github": "https://github.com/GabeSankar"
+  },
+  "education": {
+    "school": "Georgia Institute of Technology",
+    "location": "Atlanta, Georgia",
+    "dates": "Aug 2024 -- May 2027",
+    "degree": "Bachelor of Science in Computer Science",
+    "concentrations": [
+      "Intelligence",
+      "Theory"
+    ],
+    "current_coursework": [
+      "Computing and Society",
+      "Algorithms Honors",
+      "Artificial Intelligence",
+      "Perception and Robotics"
+    ],
+    "relevant_coursework": [
+      "Discrete Mathematics",
+      "Computer Organization & Programming",
+      "DSA",
+      "SUNY Science Research",
+      "Linear Algebra",
+      "OOP"
+    ],
+    "gpa": "4.0/4.0"
+  },
+  "skills": {
+    "technical": [
+      "PyTorch",
+      "Python",
+      "C++",
+      "Java",
+      "C#",
+      "Huggingface",
+      "Jupyter Lab",
+      "AWS",
+      "Linux",
+      "Machine Learning",
+      "Numpy",
+      "SciKitLearn",
+      "C",
+      "Objective C",
+      "MS Word",
+      "Excel",
+      "PowerPoint",
+      "Outlook",
+      "Slack",
+      "Git"
+    ],
+    "languages": [
+      "Basic Italian",
+      "Conversational Romanian",
+      "Fluent English"
+    ],
+    "additional_skills": [
+      "CAD",
+      "Photoshop",
+      "3D printing",
+      "Circuit board design"
+    ]
+  },
+  "awards": [
+    "AI ATL Hackathon Google Beginner Track Winner",
+    "Honors"
+  ],
+  "experience": [
+    {
+      "company": "Bitvore Corp.",
+      "location": "Irvine, CA",
+      "title": "NLP Intern (Remote)",
+      "dates": "Jun 2023 -- Nov 2023",
+      "responsibilities": [
+        "Researched and evaluated NLP models for market analysis-related tasks.",
+        "Developed task-specific methods using SpaCy, AllenNLP, and transformers.",
+        "Implemented NLP models for coreference resolution and entity extraction."
+      ]
+    },
+    {
+      "company": "Georgia Tech Decision Processes Lab",
+      "location": "Atlanta, GA",
+      "title": "Undergraduate Researcher",
+      "dates": "Sep 2024 -- Present",
+      "responsibilities": [
+        "Analyzed graph networks to explore social networks.",
+        "Created algorithms to query large databases and construct datasets.",
+        "Built NetworkX-based graph generation tools.",
+        "Conducted research in social psychology data analysis.",
+        "Implemented distributed processing to handle large data related tasks.",
+        "Developed statistical methods to analyze large datasets.",
+        "Built algorithms in Numpy and python to statistically analyze graph network data.",
+        "Created slurm based programs for a large HPC network.",
+        "Created distributed data collection and analysis algorithms."
+      ]
+    },
+    {
+      "company": "Ossining Science Research",
+      "location": "Ossining, NY",
+      "title": "Student Researcher",
+      "dates": "Jun 2021 -- Jun 2024",
+      "responsibilities": [
+        "Reviewed AI/NLP literature to define research questions.",
+        "Designed a novel Table-to-Text model in PyTorch.",
+        "Used AWS/QBlocks for model training.",
+        "Published research and presented at symposiums.",
+        "Evaluated LLMs with huggingface and PyTorch"
+      ]
+    },
+    {
+      "company": "Westchester County Parks",
+      "location": "Croton, NY",
+      "title": "Toll Booth Attendant",
+      "dates": "Jun 2024 -- Aug 2024",
+      "responsibilities": [
+        "Managed ticket booth income.",
+        "Provided customer service to park visitors."
+      ]
+    },
+    {
+      "company": "Applied Research Laboratory for Security and Intelligence",
+      "location": "College Park, MD",
+      "title": "RISC AI Intern",
+      "dates": "Jun 2025 -- August 2025",
+      "responsibilities": [
+        "Developed datasets for foriegn and domestic twitter data.",
+        "Worked with government champion to develop solutions to intelligence and security challenges.",
+        "Created and tuned denoising models for image generation.",
+        "Developed statistical analysis methods for generative image models.",
+        "Fit stable diffusion models to both data form both domestic and foriegn contexts.",
+        "Implemented a custom approach to training stable diffuion with PyTorch and Huggingface.",
+        "Managed an AWS compute server with linux.",
+        "Attained secret security clerance.",
+        "Created and presented a poster summary of work.",
+        "Worked with U-Nets and Contrastive Loss Image Pretraining methodologies in PyTorch."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Abstractify",
+      "description": "AI ATL Hackathon Project (Google Beginner Track Winner)",
+      "dates": "Oct 2024 -- Jul 2025",
+      "details": [
+        "Built MERN stack app with OAuth.",
+        "Generated visual abstracts for PDFs using generative AI.",
+        "Created AI-driven React-Live code injection.",
+        "Implemented RAG methodologies for visual abstract generation.",
+        "Developed a muli-LLM pipeline for a REST API."
+      ]
+    },
+    {
+      "name": "ResumeTuner",
+      "description": "Personal Project",
+      "dates": "July 2025 -- Present",
+      "details": [
+        "s"
+      ]
+    }
+  ],
+  "leadership_and_community_engagement": [
+    {
+      "organization": "Ossining Engineering Team (FRC 4122)",
+      "location": "Ossining, NY",
+      "title": "Programming Department Lead",
+      "dates": "Sep 2021 -- Jun 2024",
+      "achievements": [
+        "Fundraised approximately $5,000 from corporate sponsors.",
+        "Developed omnidirectional drive base software in C++.",
+        "Led robotics team to FRC world championships twice.",
+        "Managed development of competition robot in 3 months."
+      ]
+    }
+  ]
+}
